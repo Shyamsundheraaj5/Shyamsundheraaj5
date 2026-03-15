@@ -41,9 +41,9 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
-### 📫 Connectivity
+### 📫 Connect with me
 
 <a href="https://linkedin.com/in/shyamsundheraaj-s" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
