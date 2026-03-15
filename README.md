@@ -14,7 +14,7 @@
 ### 🏗️ Focus & Objectives
 * **Academic:** Pursuing B.Tech in CSE (AI & Machine Learning) • Batch of 2027.
 * **Problem Solving:** Systematically navigating **NeetCode 250** and **GFG POTD** to refine logical thinking and data structure proficiency.
-* **Cloud Proficiency:** Actively working within the AWS ecosystem; currently targeting the **AWS Certified Cloud Practitioner (CLF-C02)** credential.
+* **Cloud Proficiency:** Actively working within the AWS ecosystem; currently targeting the **AWS Certified Cloud Practitioner (CLF-C02)**.
 * **Backend Development:** Building high-performance server-side applications with a focus on reliability and efficient data handling.
 
 ---
