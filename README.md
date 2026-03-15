@@ -37,7 +37,7 @@
 
 ---
 
-⭐️ **Consistent daily practice beats short bursts of motivation.** 
+⭐️ **Consistent daily practice beats short bursts of motivation.** I apply this through a steady-state approach to daily code commits, problem-solving streaks, and continuous technical learning.
 
 ---
 
