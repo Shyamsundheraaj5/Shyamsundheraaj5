@@ -44,6 +44,4 @@
 ### 🤝 Connect with me:
 
 <a href="https://linkedin.com/in/shyamsundheraaj-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://leetcode.com/u/algoShyam/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
-<a href="https://www.geeksforgeeks.org/user/shyamsund0hff/" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"></a>
 <a href="mailto:shyamsundheraaj05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
