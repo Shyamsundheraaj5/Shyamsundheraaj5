@@ -1,14 +1,46 @@
-## Hi, I'm Shyamsundheraaj 👋<br><br>🚀 **About Me** CSE (AI) Undergraduate | Backend & Cloud Enthusiast<br><br>Java • Python • FastAPI • MySQL • Git • AWS<br><br>---<br><br>🎓 CSE (AI) undergraduate (2023–2027)<br>💻 Solving **DSA** (NeetCode 250 + GFG POTD)<br>🌱 Learning **backend development & system design**<br>☁️ Preparing for **AWS Cloud Practitioner (CLF-C02)**<br>🎯 Working towards becoming a **Software Development Engineer (SDE)**<br><br>⭐️ Consistent daily practice beats short bursts of motivation.<br>
+# Hi, I'm Shyamsundheraaj 👋 
 
+### 🚀 Aspiring Software Development Engineer | Cloud & Backend Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shyamsundheraaj-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamsundheraaj05@gmail.com) 
+I am a Computer Science undergraduate focused on building scalable backend systems and mastering cloud infrastructure. I thrive on solving complex algorithmic challenges and am currently deep-diving into the AWS ecosystem.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shyamsundheraaj5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shyamsundheraaj5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamsundheraaj5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **Cloud & DB** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+
+---
+
+### 📈 What I'm Up To
+
+- 🎓 **Undergraduate:** CSE (AI & Machine Learning) | Class of 2027
+- 💡 **Problem Solving:** Conquering the **NeetCode 250** and maintaining a daily streak on **GFG POTD**.
+- ☁️ **Cloud Journey:** Currently preparing for the **AWS Certified Cloud Practitioner (CLF-C02)**.
+- 🏗️ **Building:** Focused on **System Design** principles and high-performance backend architectures.
+
+---
+
+### 📊 Coding Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/algoShyam?theme=dark&font=Recursive" alt="LeetCode Stats" />
+  <img src="https://gfgstatscard.vercel.app/shyamsund0hff?theme=dark" alt="GFG Stats" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> "Consistent daily practice beats short bursts of motivation." 
+> I apply this to my code, my workouts, and my learning every single day.
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamsundheraaj-s/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-shyamsundheraaj05@gmail.com)
