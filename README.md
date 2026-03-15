@@ -1,42 +1,54 @@
-# Hi, I'm Shyamsundheraaj 👋 
+<div align="center">
 
-### 🚀 Aspiring Software Development Engineer | Cloud & Backend Enthusiast
-
-I am a Computer Science undergraduate focused on building scalable backend systems and mastering cloud infrastructure. I thrive on solving complex algorithmic challenges and am currently deep-diving into the AWS ecosystem.
+# 👨‍💻 Shyamsundheraaj
+**Engineering Scalable Backends | AWS & Cloud Infrastructure Enthusiast**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+*Computer Science Undergraduate specializing in AI/ML, dedicated to building robust software and optimizing cloud-based environments. I focus on the intersection of algorithmic efficiency and reliable backend systems.*
+
+---
+
+</div>
+
+### 🏗️ Focus & Objectives
+* **Academic:** Pursuing B.Tech in CSE (AI & Machine Learning) • Batch of 2027.
+* **Problem Solving:** Systematically navigating **NeetCode 250** and **GFG POTD** to refine logical thinking and data structure proficiency.
+* **Cloud Proficiency:** Actively working within the AWS ecosystem; currently targeting the **AWS Certified Cloud Practitioner (CLF-C02)** credential.
+* **Backend Development:** Building high-performance server-side applications with a focus on reliability and efficient data handling.
+
+---
+
+### 🛠️ Technical Ecosystem
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| **Cloud & DB** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Backend & Auth** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Tooling & UI** | `Tkinter` • `Pillow` • `REST APIs` • `Backend Logic` |
 
 ---
 
-### 📈 What I'm Up To
-
-- 🎓 **Undergraduate:** CSE (AI & Machine Learning) | Class of 2027
-- 💡 **Problem Solving:** Conquering the **NeetCode 250** and maintaining a daily streak on **GFG POTD**.
-- ☁️ **Cloud Journey:** Currently preparing for the **AWS Certified Cloud Practitioner (CLF-C02)**.
-- 🏗️ **Building:** Focused on **System Design** principles and high-performance backend architectures.
-
----
 ### 🐍 My Contribution Streak
 
 ![snake gif](https://raw.githubusercontent.com/Shyamsundheraaj5/Shyamsundheraaj5/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-### ⚡ Fun Fact
-> "Consistent daily practice beats short bursts of motivation." 
-> I apply this to my code, my workouts, and my learning every single day.
+⭐️ **Consistent daily practice beats short bursts of motivation.** 
+I apply this through a steady-state approach to daily code commits, problem-solving streaks, and continuous technical learning.
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyamsundheraaj-s/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-shyamsundheraaj05@gmail.com)
+<div align="center">
+
+### 📫 Connectivity
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamsundheraaj-s)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/algoShyam/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shyamsund0hff/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsundheraaj05@gmail.com)
+
+</div>
