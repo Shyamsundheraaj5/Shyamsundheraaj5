@@ -25,8 +25,9 @@ I am a Computer Science undergraduate focused on building scalable backend syste
 - 🏗️ **Building:** Focused on **System Design** principles and high-performance backend architectures.
 
 ---
+### 🐍 My Contribution Streak
 
-
+![snake gif](https://raw.githubusercontent.com/Shyamsundheraaj5/Shyamsundheraaj5/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
