@@ -37,10 +37,8 @@
 
 ---
 
----
-
 ### 🤝 Collaborative Contributions
-* **[EV-Station-Finder](https://github.com/Rishitgoyal06/ev-station-finder):** Contributed to backend API development and database integration. Gained experience in the fork-and-pull-request workflow and collaborative code reviews.
+* **[EV-Station-Finder](https://github.com/Rishitgoyal06/ev-station-finder/tree/main/ev-backend):** Contributed to backend API development and database integration. Gained experience in the fork-and-pull-request workflow and collaborative code reviews.
 
 ---
 
