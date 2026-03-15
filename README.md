@@ -37,6 +37,13 @@
 
 ---
 
+---
+
+### 🤝 Collaborative Contributions
+* **[EV-Station-Finder](https://github.com/Rishitgoyal06/ev-station-finder):** Contributed to backend API development and database integration. Gained experience in the fork-and-pull-request workflow and collaborative code reviews.
+
+---
+
 ⭐️ **Consistent daily practice beats short bursts of motivation.** I apply this through a steady-state approach to daily code commits, problem-solving streaks, and continuous technical learning.
 
 ---
