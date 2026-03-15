@@ -26,12 +26,7 @@ I am a Computer Science undergraduate focused on building scalable backend syste
 
 ---
 
-### 📊 Coding Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/algoShyam?theme=dark&font=Recursive" alt="LeetCode Stats" />
-  <img src="https://gfgstatscard.vercel.app/shyamsund0hff?theme=dark" alt="GFG Stats" />
-</p>
 
 ---
 
