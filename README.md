@@ -37,8 +37,14 @@
 
 ---
 
+---
+
 ### 🤝 Collaborative Contributions
+
+* **[Smart Attendance System](https://github.com/Rishitgoyal06/Hackathon):** Engineered the **Flask backend infrastructure**, including dynamic routing and database management. Developed the server-side logic to bridge the glassmorphism frontend with the facial recognition engine during a competitive hackathon environment.
 * **[EV-Station-Finder](https://github.com/Rishitgoyal06/ev-station-finder/tree/main/ev-backend):** Contributed to backend API development and database integration. Gained experience in the fork-and-pull-request workflow and collaborative code reviews.
+
+---
 
 ---
 
