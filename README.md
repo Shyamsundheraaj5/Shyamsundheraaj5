@@ -5,7 +5,7 @@
 
 ---
 
-*Computer Science Undergraduate specializing in AI/ML, dedicated to building robust software and optimizing cloud-based environments. I focus on the intersection of algorithmic efficiency and reliable backend systems.*
+*Computer Science Undergraduate specializing in AI, dedicated to building robust software and optimizing cloud-based environments. I focus on the intersection of algorithmic efficiency and reliable backend systems.*
 
 ---
 
