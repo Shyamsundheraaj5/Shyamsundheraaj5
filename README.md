@@ -11,7 +11,7 @@
 
 </div>
 
-### 🏗️ Focus & Objectives
+### Focus & Objectives
 * **Academic:** Pursuing B.Tech in CSE (AI & Machine Learning) • Batch of 2027.
 * **Problem Solving:** Following a **structured learning roadmap** and maintaining a consistent daily streak on GFG POTD to master complex data structures and algorithmic patterns.
 * **Cloud Proficiency:** Actively working within the AWS ecosystem; currently targeting the **AWS Certified Cloud Practitioner (CLF-C02)**.
@@ -31,7 +31,7 @@
 
 ---
 
-### 🐍 My Contribution Streak
+### My Contribution Streak
 
 ![snake gif](https://raw.githubusercontent.com/Shyamsundheraaj5/Shyamsundheraaj5/output/github-contribution-grid-snake-dark.svg)
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 🤝 Collaborative Contributions
+### Collaborative Contributions
 
 * **[Smart Attendance System](https://github.com/Rishitgoyal06/Hackathon):** Engineered the **Flask backend infrastructure**, including dynamic routing and database management. Developed the server-side logic to bridge the glassmorphism frontend with the facial recognition engine during a competitive hackathon environment.
 * **[EV-Station-Finder](https://github.com/Rishitgoyal06/ev-station-finder/tree/main/ev-backend):** Contributed to backend API development and database integration. Gained experience in the fork-and-pull-request workflow and collaborative code reviews.
@@ -48,11 +48,11 @@
 
 ---
 
-⭐️ **Consistent daily practice beats short bursts of motivation.** I apply this through a steady-state approach to daily code commits, problem-solving streaks, and continuous technical learning.
+**Consistent daily practice beats short bursts of motivation.** I apply this through a steady-state approach to daily code commits, problem-solving streaks, and continuous technical learning.
 
 ---
 
-### 🤝 Connect with me:
+### Connect with me:
 
 <a href="https://linkedin.com/in/shyamsundheraaj-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:shyamsundheraaj05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
