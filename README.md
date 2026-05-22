@@ -1,7 +1,7 @@
 <div align="center">
 
 # Shyamsundheraaj
-**Engineering Scalable Backends | AWS & Cloud Infrastructure Enthusiast**
+**Engineering Scalable Backends 
 
 ---
 
