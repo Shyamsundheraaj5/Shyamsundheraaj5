@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Shyamsundheraaj
+# Shyamsundheraaj
 **Engineering Scalable Backends | AWS & Cloud Infrastructure Enthusiast**
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Technical Ecosystem
+### Technical Ecosystem
 
 | Category | Technologies |
 | :--- | :--- |
